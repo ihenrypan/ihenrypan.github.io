@@ -2,7 +2,7 @@ title: ihenrypan的博客 GitHub.io
 description: ihenrypan的博客
 google_analytics: 
 show_downloads: true
-theme: jekyll-theme-cayman
+theme: jekyll-theme-leap-day
 
 gems:
   - jekyll-mentions
